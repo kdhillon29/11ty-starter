@@ -1,0 +1,11 @@
+body{
+    max-width: 900px;
+    margin:10px auto;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.heading{
+    margin: 10px;
+    /* display:inline-block; */
+    border-bottom: 1px solid grey;
+}
