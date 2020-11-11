@@ -3,12 +3,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/styles.css" >
-    <title>Document</title>
+    <title>{{title}}</title>
 </head>
 <body>
 <h1 class="heading">Js Marathon Eleventy </h1>
+<nav>
+<li> <a href="/">Home</li>
+<li> <a href="/about/">About</li>
+<li> <a href="/contact/">Contact Us</li>
+</nav>
+<div class ="content">
+    <h3>  {{title}} </h3>
     {{ content|safe  }}
-        
+        </div>
+
 
 </body>
 </html>

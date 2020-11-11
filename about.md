@@ -1,9 +1,10 @@
 ---
 layout: defaultLayout.njk
+title: about us
 
 ---
 
 
-# About Us
+
 
 Here some more info.

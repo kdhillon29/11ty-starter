@@ -1,8 +1,9 @@
 ---
 layout: defaultLayout.njk
+title: contact us
 
 ---
 
-# contact us
 
-contact us here...
+
+contact us at [kdhillon469@gmail.com](mailto:kdhillon469@gmail.com)
